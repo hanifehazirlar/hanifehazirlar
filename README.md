@@ -43,10 +43,10 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=yeliz55&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeliz55&layout=compact&langs_count-16&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hanifehazirlar&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifehazirlar&layout=compact&langs_count-16&theme=dracula"/>
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeliz55&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=hanifehazirlar&&style=flat-square" align="center" />
 </div>
 white_check_mark
 eyes
