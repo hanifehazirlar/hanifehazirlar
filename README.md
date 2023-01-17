@@ -47,6 +47,7 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
+<a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="Jmeter" width="90" height="50"/> </a>
 
 ## Connect with me:
 
