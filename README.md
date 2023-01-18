@@ -72,7 +72,7 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <br>
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MevlutOrcan&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=hanifehazirlar&&style=flat-square" align="center" />
  </div>
  <br>
 
