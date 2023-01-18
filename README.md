@@ -71,9 +71,10 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <br>
 <br>
 <br>
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MevlutOrcan&&style=flat-square" align="center" />
+ </div>
+ <br>
 
 <p align="center">
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/hanifehazirlar?cardType=github&theme=monokai&Text=DD971A") />
