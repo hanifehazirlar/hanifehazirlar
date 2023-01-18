@@ -80,4 +80,4 @@ I have a solid understanding and ability to use Software Development Lifecycle (
   <img src="https://komarev.com/ghpvc/?username=hanifehazirlar&&style=flat-square" align="center" />
  </div> 
 
-![snake gif](https://github.com/hanifehazirlar/hanifehazirlar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hanifehazirlar/hanifehazirlar/blob/output/github-contribution-grid-snake.svg)
