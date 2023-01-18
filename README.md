@@ -73,12 +73,7 @@ I have a solid understanding and ability to use Software Development Lifecycle (
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hanifehazirlar&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifehazirlar&layout=compact&langs_count-16&theme=dracula"/>
- 
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hanifehazirlar&&style=flat-square" align="center" />
- </div> 
+
 
 <p align="center">
       <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/hanifehazirlar?cardType=github&theme=monokai&Text=DD971A") />
